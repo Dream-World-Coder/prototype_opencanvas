@@ -1,0 +1,6 @@
+.DS_Store
+node_modeuls/
+.venv/
+quill.jpg
+data.txt
+#structure.txt

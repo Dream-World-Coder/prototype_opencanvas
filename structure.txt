@@ -1,0 +1,32 @@
+
+OPEN SOURCE - MERN STACK APP
+
+SOCIAL BLOGGING
+
+ANYONE CAN WRITE IN HERE but LOGIN FIRST.
+
+all-articles-data.json:
+{
+  'author':'name',
+  'title':'title',
+  'date':'date',
+  'content':'paragraph',
+}
+
+THE HERO PAGE WILL BE UPDATED AUTOMATICALLY THROUGH BACKEND CODE
+LAZY LOAD .content WITH JS
+
+A SIMPLE WRITING/EDITING PAGE
+ALSO a DEV mode for DEVELOPERS, Who want to stylise in their own way.
+
+
+THROUGH VERIFICATION OF SUBMITTED ARTICLES.
+
+NOTATIONS:
+SAME AS MARK DOWN
+or
+MY NEW
+
+bold(`text`)
+italic()
+large(`text`, fontsize=md)
